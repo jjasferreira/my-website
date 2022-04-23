@@ -3,6 +3,20 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.0.2] - 2022-04-24
+
+### Added
+- the *Bootstrap CSS* and the *Bootstrap Bundle with Popper JS* libraries for future usage
+- a top navigation bar with *home*, *about*, *portfolio* and *contact me* for better navigation throughout the website
+- a lower bar with social media icons for future implementation and the year of creation of the website
+- `footers.css` to style the lower bar
+- a text eith the current version to link to my *GitHub* repository
+
+### Changed
+- the profile picture to a rounded version
+
+---
+
 ## [0.0.1] - 2022-04-23
 
 ### Added
