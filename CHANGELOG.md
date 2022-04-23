@@ -3,13 +3,33 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.0.1] - 2022-04-23
+
+### Added
+- `style.css` file to serve as a stylesheet for the `HTML` files
+- `about.html` file to be an *About me* page
+- `avatar.png` to the `assets` folder to show up on the website
+- `cv.pdf` to the `assets` folder, accessible from an anchor in the *Home* page
+- a *contact me* acnhor on the *Home* page that redirects to my e-mail
+- a simple "welcome to my website" text to the *Home* page and a "page under construction" to the *About me* one
+- anchors between the *Home* (`index.html`) and *About me* (`about.html`) pages
+
+### Changed
+- the default font to *Kumbh Sans* using Google Fonts
+- the font size according to the page heading
+- the text color to `white: rgb(255, 255, 255)`
+- the background color to `rgb(35, 35, 35)`
+
+---
+
 ## [0.0.0] - 2022-04-21
+
 ### Added
 - `README.md` file to write information about the repository
 - `CHANGELOG.md` file to keep a clearer record of changes 
 - `CNAME` file to enable GitHub Pages custom domain
 - `assets` folder to contain resources to be used on the website
-- `index.html` file to be the future main page
+- `index.html` file to be the *Home* page
 
 ---
 
