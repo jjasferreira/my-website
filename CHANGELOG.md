@@ -3,6 +3,28 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.0.3] - 2022-04-25
+
+### Added
+- `portfolio.html` file to be a *Portfolio* page
+- `class.css` file to serve as a stylesheet for custom classes
+- the new custom domain *jjasf.me* (Namecheap) to the `CNAME` file
+- *LinkedIn*, *GitHub* and *Twitter* Bootstrap icons to the lower bar and linked them to my socials
+- a link to my website to the `README.md` file
+- a *Google Analytics* tag using *Google Tag Manager* for future data analysis
+
+### Changed
+- the top navigation bar color to `rgb(35, 70, 70)`
+- the profile picture to a rounded version
+- the top navigation bar anchors to be disabled, as for now
+
+### Removed
+- the contents of `about.html` for future development
+- the font size settings from `style.css`
+- the "welcome to my website" text from the *Home* page
+
+---
+
 ## [0.0.2] - 2022-04-24
 
 ### Added
@@ -11,9 +33,6 @@ All notable changes to this project will be documented in this file.
 - a lower bar with social media icons for future implementation and the year of creation of the website
 - `footers.css` to style the lower bar
 - a text eith the current version to link to my *GitHub* repository
-
-### Changed
-- the profile picture to a rounded version
 
 ---
 
